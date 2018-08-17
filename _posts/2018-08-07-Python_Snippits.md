@@ -1,3 +1,14 @@
+---
+layout: post
+category: powershell
+title: powershell Snips
+tagline: by Henry
+tags:
+  - powershell
+  -snips
+published: true
+---
+
 # Powershell Snippits
 Some of my PowerShell snippits that come in useful
 

@@ -1,3 +1,14 @@
+---
+layout: post
+category: python
+title: python Snips
+tagline: by Henry
+tags:
+  - python
+  - snips
+published: true
+---
+
 # Python Snipits
 
 # How to cleat the screen
