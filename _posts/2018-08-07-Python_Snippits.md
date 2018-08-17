@@ -5,7 +5,7 @@ title: powershell Snips
 tagline: by Henry
 tags:
   - powershell
-  -snips
+  - snips
 published: true
 ---
 
