@@ -38,7 +38,18 @@ http://www.subnet-calculator.com/
 ## Containers, runtimes
 [vagrant](https://www.vagrantup.com/)
 [HELM](https://github.com/helm/helm)
+To install on windonws
+from cmd as Admin run
+``` cmd
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+```
+[Floker](https://github.com/ClusterHQ/flocker)
+[kitematic](https://kitematic.com/)
+[Information Blog](https://techbeacon.com/one-year-using-kubernetes-production-lessons-learned)
+[skaffold](https://github.com/GoogleContainerTools/skaffold)
 
+## Monitoring
+[prometheus](https://prometheus.io/docs/introduction/overview/)
 
 ## Standardise machine builds
 [packer](https://www.packer.io/)
@@ -79,5 +90,23 @@ pushbullet
 http://www.devopsbookmarks.com/cloud-paas+linux+metrics-visualization+open-source+provisioning
 
 
+## Awesome LISTS
+[docker](https://github.com/veggiemonk/awesome-docker)
+[kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+[DI/CD](https://github.com/ciandcd/awesome-ciandcd)
+[SysAdmin](https://github.com/n1trux/awesome-sysadmin)
+[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
 
 https://netflix.github.io/
+https://github.com/dockeron/dockeron
+https://github.com/squidnyan/docker-registry-ui
+https://github.com/mkuchin/docker-registry-web
+https://github.com/P3GLEG/Whaler
+https://abhishek-tiwari.com/10-open-source-tools-for-highly-effective-kubernetes-sre-and-ops-teams/
+https://hub.docker.com/r/smpio/kubernator/
+https://blog.aquasec.com/6-more-free-tools-to-make-your-docker-container-deployments-faster
+https://www.weave.works/blog/11-docker-tools-developers/
+
+https://github.com/ramitsurana/awesome-kubernetes
+https://semaphoreci.com/product/docker
+https://concourse-ci.org/tutorials.html
