@@ -20,7 +20,7 @@ To enable this on the CLIENT side ([DOCUMENTATION](https://docs.docker.com/regis
   - Insert the following into Daemon
   - { "insecure-registries" : ["yourregistry:5000"] }
   - Restart docker
-  ![alt text](../assets/images/kubernetesWindows.JPG")
+  ![Kubernetes Windows Screenshot](/assets/images/kubernetesWindows.JPG")
 
 - Linux
   - Create file /etc/docker/daemon.json
