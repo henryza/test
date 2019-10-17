@@ -2,7 +2,7 @@
 layout: page
 type: about
 ---
-![alt Henry Picture][https://henryza.github.io/assets/images/about.jpg]
+![alt Henry Picture](assets/images/about.jpg)
 
 # About
 Hi I'm **Henry** An experienced DevOps engineer with experience in development, operations, multi-cloud and solutions architecture. 
