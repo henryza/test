@@ -2,9 +2,8 @@
 layout: page
 type: about
 ---
-Reference-style: 
 ![alt Henry Picture][https://henryza.github.io/assets/images/about.jpg]
-]
+
 # About
 Hi I'm **Henry** An experienced DevOps engineer with experience in development, operations, multi-cloud and solutions architecture. 
 Passionate about innovation with the creativity and knowledge to think out the box. 
