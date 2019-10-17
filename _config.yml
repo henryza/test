@@ -349,7 +349,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: assets/images/Atomlogo.png
+  image: assets/images/Atom.jpg
 
 
 
