@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: assets/images/author.jpeg
+favicon: assets/images/about.jpg
 
 # Set default keywords (Use a comma to separate)
 keywords: "henry stock, henryza, devops"
@@ -123,7 +123,7 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
-  #commonweal: /404.html
+  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
