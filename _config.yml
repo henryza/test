@@ -349,7 +349,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: assets/images/web-thegem-blog-default.jpg
+  image: assets/images/Atomlogo.png
 
 
 
@@ -377,7 +377,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: 70b7e141dfc0ea2b204682f94ab2e01a
+#baidu_analytics: 70b7e141dfc0ea2b204682f94ab2e01a
 
 # Duoshuo ShortName
 #duoshuo_shortname:
