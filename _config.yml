@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/images/author.jpeg
+favicon: assets/images/author.jpeg
 
 # Set default keywords (Use a comma to separate)
 keywords: "henry stock, henryza, devops"
@@ -233,7 +233,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/author.jpeg
+avatar: /assets/images/about.jpg
 
 
 # Table Of Contents in the Sidebar
