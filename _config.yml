@@ -105,7 +105,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -123,7 +123,7 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
-  commonweal: /404.html
+  #commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -349,7 +349,7 @@ post_copyright:
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: true
-  image: assets/images/Atomlogo.png
+  image: assets/images/web-thegem-blog-default.jpg
 
 
 
@@ -437,10 +437,10 @@ gitalk:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification: hxyd6b4vb-uzYY6dVuzz4KXhScoVoEUjtiRWYSJVlrY
+#google_site_verification: hxyd6b4vb-uzYY6dVuzz4KXhScoVoEUjtiRWYSJVlrY
 
 # Google Analytics
-google_analytics: UA-67994495-1
+#google_analytics: UA-67994495-1
 
 # Yandex Webmaster tools verification setting
 # See: https://webmaster.yandex.ru/
