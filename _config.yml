@@ -76,7 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: assets/images/about.jpg
+favicon: assets/images/Atomlogo.png
 
 # Set default keywords (Use a comma to separate)
 keywords: "henry stock, henryza, devops"
@@ -215,7 +215,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/henryza
-  Blog: https://henryza.github.io/blog
+  #Blog: https://henryza.github.io/blog
   Website: https://henryza.github.io
   
 
@@ -231,7 +231,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Blog: blogger
-  Website: globe-africa
+  Website: fa-globe
 
 
 # Sidebar Avatar
